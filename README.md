@@ -18,16 +18,16 @@ Thank you for visiting my Github :). I have been a ```~soydev~``` since 2019. Le
 - 🐈 Going overboard with my neovim / zsh / kitty setup
 
 #### Non-coding incompetencies...
-- 🧻 I have a weeny amount of paper ![published](https://www.researchgate.net/profile/Christopher-Chan-15?ev=hdr_xprf), mostly refugee camps mapping and resilience research
+- 🧻 I have a weeny amount of paper [published](https://www.researchgate.net/profile/Christopher-Chan-15?ev=hdr_xprf), mostly refugee camps mapping and resilience research
 - ⛰️ I like sports, climbing, running, and touching grass
 - 🚋 Hobbyist urban planner, mostly practicing in Cities Skyline
 
 - In the pinned tabs you can checkout my sample code that nobody will ever read again, as well as my config files, which are probably more useful to you.
-- For actual portfolio of things that I can barely do, see my ![website](https://story.chanakin.info/)
+- For actual portfolio of things that I can barely do, see my [website](https://story.chanakin.info/)
 
 ![image](https://github.com/user-attachments/assets/fc3898f3-91d0-4c57-9e37-7c9079c2815a)
 
 Waste your time and chat to me about your setup!
-- 💼 ![Connect with me on LinkedIn](https://www.linkedin.com/in/christopher-yan-chak-chan-a58879ba/)
-- 📅 ![Book a 30 min quick coffee chat](https://calendly.com/chrischank97/30-min-quick-coffee)
-- I've ![pledged to give](https://www.givingwhatwecan.org/pledge) 10% of income to ![effective charities](https://www.givingwhatwecan.org/best-charities-to-donate-to-2024) and invite you to ![join me](https://www.givingwhatwecan.org/index).
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/christopher-yan-chak-chan-a58879ba/)
+- 📅 [Book a 30 min quick coffee chat](https://calendly.com/chrischank97/30-min-quick-coffee)
+- I've [pledged to give](https://www.givingwhatwecan.org/pledge) 10% of income to [effective charities](https://www.givingwhatwecan.org/best-charities-to-donate-to-2024) and invite you to [join me](https://www.givingwhatwecan.org/index).

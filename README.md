@@ -30,4 +30,4 @@ Waste your time and chat to me about your setup!
 - 📅 [Book a 30 min quick coffee chat](https://calendly.com/chrischank97/30-min-quick-coffee)
 - I've [pledged to give](https://www.givingwhatwecan.org/pledge) 10% of income to [effective charities](https://www.givingwhatwecan.org/best-charities-to-donate-to-2024) and invite you to [join me](https://www.givingwhatwecan.org/index).
 
-👇 In the pinned tabs you can checkout my sample code that nobody will ever read again, as well as my config files, which are probably more useful to you. 👇
+👇 In the pinned tabs you can checkout my sample code that nobody will ever read again, as well as my config files, which are probably more useful to you.

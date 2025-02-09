@@ -6,11 +6,9 @@
 
 **🌄 Good morning, good afternoon, or maybe good evening. 🌆**
 
-<div style="float: right; margin-left: 10px;">
- <img src="https://github.com/user-attachments/assets/0ece6828-35a6-4c58-8612-8d0c688ff07c" width=30% height=30%>
-</div>
+ <img align='right' src="https://github.com/user-attachments/assets/0ece6828-35a6-4c58-8612-8d0c688ff07c" width=30% height=30%>
 
-Thank you for visiting my Github :). I have been a ```~soydev~``` since 2019. Learn programming they say, it will be fun they say... Now that I have sunk an irreversable amount of time and soul cost in, I can never recover. I just hope that I can be a 5x dev by the end of my life and a few forks and stars edge onto my gravestone. I'll be happy as long as I can take my vim config to heaven with me ☁️.
+Thank you for visiting my Github :). I have been a ```~soydev~``` since 2019. Learn programming they say, it will be fun they say... Now that I have sunk an irreversable amount of time and soul in, it might be too late to recover :(. I just hope that I can be a 5x dev by the end of my life and a few forks and stars edge onto my gravestone. I'll be happy as long as I can take my vim config to heaven with me ☁️.
 
 #### My general incompetencies are...
 - 🛰️ Satellite imagery and geospatial analysis

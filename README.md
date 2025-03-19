@@ -15,7 +15,7 @@ Thank you for visiting my Github :). I have been a ```~soydev~``` since 2019. Le
 - 👀 Computer Vision and CNN
 - 💁 Generalist data stuffs in your usual stack
 - 📈 Scientific plotting and LaTeX
-- 🐈 Going overboard with my neovim / zsh / kitty setup
+- 🐈 Going overboard with my neovim / zsh / ghostty setup
 
 #### Non-coding incompetencies...
 - 🧻 I have a weeny amount of paper [published](https://www.researchgate.net/profile/Christopher-Chan-15?ev=hdr_xprf), mostly refugee camps mapping and resilience research

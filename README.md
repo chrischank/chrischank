@@ -15,7 +15,8 @@ Thank you for visiting my Github :). I have been a ```~soydev~``` since 2019. Le
 - 👀 Computer Vision and CNN
 - 💁 Generalist data stuffs in your usual stack
 - 📈 Scientific plotting and LaTeX
-- 🐈 Going overboard with my neovim / zsh / ghostty setup
+- 🤖 Going overboard with my neovim / zsh / ghostty setup
+- 🐈 Catastrophe Modelling
 
 #### Non-coding incompetencies...
 - 🧻 I have a weeny amount of paper [published](https://www.researchgate.net/profile/Christopher-Chan-15?ev=hdr_xprf), mostly refugee camps mapping and resilience research
@@ -23,7 +24,8 @@ Thank you for visiting my Github :). I have been a ```~soydev~``` since 2019. Le
 - 🚋 Hobbyist urban planner, mostly practicing in Cities Skyline
 
 - For actual portfolio of things that I can barely do, see my [website](https://story.chanakin.info/)
-![image](https://github.com/user-attachments/assets/fc3898f3-91d0-4c57-9e37-7c9079c2815a)
+<img width="4606" height="3455" alt="toolkit" src="https://github.com/user-attachments/assets/565efaca-536b-4f58-a7c1-184642c980c2" />
+
 
 Waste your time and chat to me about your setup!
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/christopher-yan-chak-chan-a58879ba/)
